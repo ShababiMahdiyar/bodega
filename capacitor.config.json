@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "bodega",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
